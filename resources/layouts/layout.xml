@@ -1,6 +1,6 @@
 <layout id="WatchFace">
     <drawable class="Background" />
-    <label text="ctdurazo@watch:~ $ now" x="50" y="60" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_WHITE" />
+    <label text="user@watch:~ $ now" x="50" y="60" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_WHITE" />
     <label id="TimeLabel" x="50" y="100" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_WHITE" />
     <label id="TimeValue" x="160" y="100" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_GREEN" />
     <label id="DateLabel" x="50" y="140" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_WHITE" />
@@ -11,7 +11,7 @@
     <label id="StepValue" x="160" y="220" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_PURPLE" />
     <label id="HRLabel" x="50" y="260" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_WHITE" />
     <label id="HRValue" x="160" y="260" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_RED" />
-    <label text="ctdurazo@watch:~ $" x="50" y="300" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_WHITE" />
+    <label text="user@watch:~ $" x="50" y="300" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_WHITE" />
 </layout>
 
 
