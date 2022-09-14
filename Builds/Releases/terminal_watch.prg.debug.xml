@@ -234,18 +234,18 @@
         <entry endPc="268440283" name="rez_cmp_local_text_DateLabel" stackId="8" startPc="268438088"/>
         <entry endPc="268440283" name="rez_cmp_local_text_HRLabel" stackId="14" startPc="268438088"/>
         <entry endPc="268440283" name="rez_cmp_local_text_WeatherLabel" stackId="16" startPc="268438088"/>
-        <entry endPc="268440283" name="rez_cmp_local_text_1960034422" stackId="5" startPc="268438088"/>
         <entry endPc="268440283" name="rez_cmp_local_text_TimeLabel" stackId="6" startPc="268438088"/>
         <entry endPc="268440283" name="local_Rez_Fonts_Menlo_SMALL" stackId="2" startPc="268438088"/>
-        <entry endPc="268440283" name="rez_cmp_local_text_1826015690" stackId="19" startPc="268438088"/>
-        <entry endPc="268440283" name="rez_cmp_local_custom_drawable_13340888226450132731" stackId="4" startPc="268438088"/>
         <entry endPc="268440283" name="rez_cmp_local_text_BattValue" stackId="11" startPc="268438088"/>
         <entry endPc="268440283" name="rez_cmp_local_text_DateValue" stackId="9" startPc="268438088"/>
         <entry endPc="268440283" name="rez_cmp_local_text_HRValue" stackId="15" startPc="268438088"/>
         <entry endPc="268440283" name="rez_cmp_local_text_WeatherValue" stackId="18" startPc="268438088"/>
         <entry endPc="268440283" name="rez_cmp_local_text_TemperatureValue" stackId="17" startPc="268438088"/>
+        <entry endPc="268440283" name="rez_cmp_local_custom_drawable_14378319315925115352" stackId="4" startPc="268438088"/>
         <entry endPc="268440283" name="rez_cmp_local_text_TimeValue" stackId="7" startPc="268438088"/>
+        <entry endPc="268440283" name="rez_cmp_local_text_6696982126" stackId="5" startPc="268438088"/>
         <entry endPc="268440283" name="rez_cmp_local_text_StepLabel" stackId="12" startPc="268438088"/>
+        <entry endPc="268440283" name="rez_cmp_local_text_1416805839" stackId="19" startPc="268438088"/>
         <entry endPc="268440283" name="local_Rez_Fonts_Menlo_MEDIUM" stackId="3" startPc="268438088"/>
         <entry endPc="268440283" name="rez_cmp_local_text_StepValue" stackId="13" startPc="268438088"/>
         <entry endPc="268440283" name="rez_cmp_local_text_BattLabel" stackId="10" startPc="268438088"/>

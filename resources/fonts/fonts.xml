@@ -1,0 +1,12 @@
+<fonts>
+    <font id="Aurebesh_LARGE" filename="aurebesh_LARGE.fnt"/>
+    <font id="Aurebesh_MEDIUM" filename="aurebesh_MEDIUM.fnt"/>
+    <font id="Aurebesh_SMALL" filename="aurebesh_SMALL.fnt"/>
+    <font id="Menlo_LARGE" filename="menlo_LARGE.fnt"/>
+    <font id="Menlo_MEDIUM" filename="menlo_MEDIUM.fnt"/>
+    <font id="Menlo_SMALL" filename="menlo_SMALL.fnt"/>
+    <font id="Menlo_TINY" filename="menlo_TINY.fnt"/>
+    <font id="Monocraft_LARGE" filename="monocraft_LARGE.fnt"/>
+    <font id="Monocraft_MEDIUM" filename="monocraft_MEDIUM.fnt"/>
+    <font id="Monocraft_SMALL" filename="monocraft_SMALL.fnt"/>
+</fonts>
